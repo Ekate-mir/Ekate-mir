@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=1DECF8&center=true&width=435&lines=Hello!+My+name+is+Kate.;I'm+an+AQA+engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=1DECF8&center=true&width=441&height=53&lines=Hello!+My+name+is+Kate.;I'm+an+AQA+engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="left">
 
@@ -22,8 +22,6 @@ Whether it's a developer with an interesting project, a recruiter looking for ta
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekate-mir/ekate-mir/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ekate-mir/ekate-mir/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 
 <!-- Pac-Man -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/pacman.svg" width="100%">
