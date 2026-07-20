@@ -23,7 +23,6 @@ Whether it's a developer with an interesting project, a recruiter looking for ta
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ekate-mir/ekate-mir/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- Pac-Man -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/pacman.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 
 </div>
