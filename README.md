@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=6731B6&center=true&width=435&lines=Hello!+My+name+is+Kate.;I'm+an+AQA+engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=1DECF8&center=true&width=435&lines=Hello!+My+name+is+Kate.;I'm+an+AQA+engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="left">
 
@@ -17,56 +17,16 @@ Whether it's a developer with an interesting project, a recruiter looking for ta
 
 </div>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ekate-mir&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=ekate-mir&show_icons=true&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekate-mir&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=ekate-mir&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekate-mir&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekate-mir/ekate-mir/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekate-mir/ekate-mir/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ekate-mir/ekate-mir/output/github-contribution-grid-snake.svg">
-</picture>  
+</picture>
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)
-
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ekate-mir&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-  </a> 
-</p>
-
-![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)
+<!-- Pac-Man -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/pacman.svg" width="100%">
 
 </div>
 
