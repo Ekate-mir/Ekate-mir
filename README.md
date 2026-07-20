@@ -17,20 +17,33 @@ Whether it's a developer with an interesting project, a recruiter looking for ta
 
 </div>
 
+<!-- Змейка коммитов -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekate-mir/ekate-mir/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekate-mir/ekate-mir/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ekate-mir/ekate-mir/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-
 <!-- Pac-Man -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/pacman.svg" width="100%">
 
+<!-- Иконки технологий -->
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+  </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> 
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/> 
+  </a> 
+</p>
+
 </div>
-
-------
-Credit: [huiishan99](https://github.com/ekate-mir)
-
-Last Edited on: 23/06/2024
